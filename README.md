@@ -1,3 +1,3 @@
 pick-engineer
 ===============
-Project for random data from text file
+This project is create for random data from text file and use ruby language.
